@@ -1,5 +1,5 @@
 #libray management systems
-git clone https://github.com/username/library-management.git
+git clone https://github.com/Kaashif-145/library-management.git
 cd library-management
 echo "Updated at $(date)" >> README.md
 git add README.md
